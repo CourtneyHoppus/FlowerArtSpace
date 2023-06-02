@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flower Art Space</string>
+
+    <string name="chrysanthemum">Chrysanthemum</string>
+    <string name="anemone">Anemone</string>
+    <string name="carnation">Carnation</string>
+    <string name="cherry_blossom">Cherry Blossom</string>
+    <string name="rose">Rose</string>
+
+    <string name="perennial">Perennial</string>
+    <string name="annual">Annual</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
